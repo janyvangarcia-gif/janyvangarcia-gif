@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Jan%20Yvan%20Garcia&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Jan Yvan Garcia</h1>
 <h3 align="center"> | Computer Engineering Graduate | Aspiring Software & Web Developer</h3>
 
