@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Magna Cum Laude Graduate in **Computer Engineering**
+- 🎓 Graduate in **Computer Engineering**
 - 💻 Passionate about **Software Development, Web Development, and Embedded Systems**
 - 🌱 Currently improving my skills in **HTML, CSS, JavaScript, Git, GitHub, and C Programming**
 - 🚀 I enjoy building projects that solve real-world problems and continuously expanding my knowledge in technology.
